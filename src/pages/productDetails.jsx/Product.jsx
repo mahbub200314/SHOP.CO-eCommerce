@@ -4,7 +4,7 @@ import React, { useContext, useEffect, useState } from 'react'
 import { useParams } from 'react-router'
 import { AuthContext } from '../../AuthProvider'
 import { doc, getDoc, setDoc, updateDoc } from 'firebase/firestore'
-import { db } from '../../../public/firebase'
+import { db } from '/public/firebase'
 
 
 
@@ -17,7 +17,7 @@ const Product = () => {
    
     useEffect(()=>{
 
-        fetch('../../../public/products.json')
+        fetch('/public/products.json')
         .then(res => res.json())
         .then(data => {
             const item = data.find( data=> data.id.toString() === id)

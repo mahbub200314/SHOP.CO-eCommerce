@@ -9,7 +9,7 @@ const NewArrival = () => {
 const [newArrival, setNewArrival] = useState([])
 useEffect( ()=>{
 
-   fetch('../../../public/products.json')
+   fetch('/public/products.json')
    .then(res => res.json())
   .then(data  =>{
     
