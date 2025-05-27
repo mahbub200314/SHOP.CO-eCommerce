@@ -19,7 +19,7 @@ const Login = () => {
   return (
     <div className="flex justify-center items-center min-h-[50vh]">
      <div className="bg-white2 text-center py-6 px-15 rounded-[10px]  shadow-gray shadow-md">
-      <h1 className="text-[1.5rem]"> Click And Add Your Gmail And Login easily.</h1>
+      <h1 className="text-[1.5rem]"> Click And add Your Gmail And Login easily.</h1>
        <button
         onClick={handleGoogleLogin}
         className="bg-blue-600 my-5 text-white px-6 py-3 rounded-md cursor-pointer"
