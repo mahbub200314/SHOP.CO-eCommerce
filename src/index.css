@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Saira+Condensed:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+*{
+  box-sizing: border-box;
+  font-family: "Saira Condensed", sans-serif;
+}
+@import "tailwindcss";
+
+@theme{
+  --color-white:rgb(255, 255, 255);
+  --color-white2:rgb(242, 240, 241);
+  --color-gray:rgb(204, 204, 204);
+  --color-black:rgb(0, 0, 0);
+  --color-textGray:rgb(153, 153, 153);
+  --color-price:rgb(242, 78, 30);
+}

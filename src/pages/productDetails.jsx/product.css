@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+.photos1 img{
+    @apply w-[100px] h-[150px] rounded-[15px] m-2  drop-shadow-lg
+}
+
+.photos2 img{
+    @apply w-[350px] h-[450px] rounded-[20px] drop-shadow-lg
+}
+
+.add{
+    @apply flex items-center text-[2rem] cursor-pointer
+}

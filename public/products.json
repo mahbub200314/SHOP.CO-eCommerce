@@ -1,0 +1,197 @@
+[
+  {
+    "id": 1,
+    "name": "Men's Casual Shirt",
+    "description": "Experience all-day comfort with this men's casual shirt made from premium soft cotton. Ideal for everyday wear, it offers a relaxed fit with breathable fabric, ensuring both style and ease.",
+    "price": 29.99,
+    "category": "men",
+     "tags": ["new arrival"],
+    "images": [
+      "https://www.yellowclothing.net/cdn/shop/files/DSC8171.jpg?v=1747297636",
+      "https://www.yellowclothing.net/cdn/shop/files/DSC8183.jpg?v=1747297654",
+      "https://www.yellowclothing.net/cdn/shop/files/DSC8168_3367dfc0-59cd-4cc6-99c3-33d77ee708dd.jpg?v=1747297654"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Men's Formal Shirt",
+    "description": "Premium formal shirt Experience all-day comfort with this men's casual shirt made from premium soft cotton. Ideal for everyday wear, it offers a relaxed fit with breathable fabric, ensuring both style and ease.",
+    "price": 39.99,
+    "category": "men",
+     "tags": ["top selling"],
+    "images": [
+      "https://d2izus7yvo9igu.cloudfront.net/images/media/2025/03/41ZfE3N49MT5OHIzbuQ1rjp4QYjhHiis8GDZ6fFz.jpg",
+      "https://d2izus7yvo9igu.cloudfront.net/images/media/2025/03/mr01yU1RNoCaph68Q9aYNdfolaJRMBZgAa9gKLXq.jpg",
+      "https://d2izus7yvo9igu.cloudfront.net/images/media/2025/03/pko8IKpMRjTf3NjmhW9vnZkblFOntus6obDX6uKU.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Men's Hoodie",
+    "description": "Comfortable hoodie for winter seasonExperience all-day comfort with this men's casual shirt made from premium soft cotton. Ideal for everyday wear, it offers a relaxed fit with breathable fabric, ensuring both style and ease.",
+    "price": 49.99,
+    "category": "men",
+     "tags": ["new arrival","top selling"],
+    "images": [
+      "https://www.yellowclothing.net/cdn/shop/files/DSC00145.jpg?v=1728977125",
+      "https://www.yellowclothing.net/cdn/shop/files/DSC00131_21df14e8-655c-448e-b1b5-e5eb35b204a4.jpg?v=1728977125",
+      "https://www.yellowclothing.net/cdn/shop/files/DSC00148.jpg?v=1728977125"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Men's T-Shirt",
+    "description": "Graphic T-shirt with stylish Experience all-day comfort with this men's casual shirt made from premium soft cotton. Ideal for everyday wear, it offers a relaxed fit with breathable fabric, ensuring both style and ease..",
+    "price": 19.99,
+    "category": "men",
+     "tags": ["top selling"],
+    "images": [
+      "https://www.yellowclothing.net/cdn/shop/files/DSC1974_addceebf-2eb3-4f75-b6eb-071235e71ab5.jpg?v=1742718226",
+      "https://www.yellowclothing.net/cdn/shop/files/DSC1968_2363515c-df8b-44e5-9354-b30c87f9ff78.jpg?v=1742718226",
+      "https://www.yellowclothing.net/cdn/shop/files/DSC1990.jpg?v=1742718226"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Men's Polo Shirt",
+    "description": "Classic polo shirt Experience all-day comfort with this men's casual shirt made from premium soft cotton. Ideal for everyday wear, it offers a relaxed fit with breathable fabric, ensuring both style and ease..",
+    "price": 25.99,
+    "category": "men",
+     "tags": ["new arrival"],
+    "images": [
+      "https://www.lerevecraze.com/wp-content/uploads/2025/05/ba9594d0-f5e7-49a7-80f8-a58177ba8e48.jpg",
+      "https://www.lerevecraze.com/wp-content/uploads/2025/05/88506028-d922-42c6-a8d9-8bce23f8517f.jpg",
+      "https://www.lerevecraze.com/wp-content/uploads/2025/05/41d805db-d974-4914-adf0-a8e2337f5ff6.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Men's Jacket",
+    "description": "Waterproof Experience all-day comfort with this men's casual shirt made from premium soft cotton. Ideal for everyday wear, it offers a relaxed fit with breathable fabric, ensuring both style and ease..",
+    "price": 79.99,
+    "category": "men",
+     "tags": ["new arrival"],
+    "images": [
+      "https://mensworld.com.bd/wp-content/uploads/2025/01/3517.jpg",
+      "https://mensworld.com.bd/wp-content/uploads/2025/01/3517.jpg",
+       "https://mensworld.com.bd/wp-content/uploads/2025/01/3517.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Men's Kurta",
+    "description": "Traditional cotton kurta Experience all-day comfort with this men's casual shirt made from premium soft cotton. Ideal for everyday wear, it offers a relaxed fit with breathable fabric, ensuring both style and ease.",
+    "price": 34.99,
+    "category": "men",
+     "tags": ["new arrival"],
+    "images": [
+      "https://www.aarong.com/media/catalog/product/0/1/0140000106273.jpg",
+      "https://www.aarong.com/media/catalog/product/0/1/0140000106303.jpg",
+       "https://www.aarong.com/media/catalog/product/0/1/0140000106273.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Men's Sweatshirt",
+    "description": "Experience all-day comfort with this men's casual shirt made from premium soft cotton. Ideal for everyday wear, it offers a relaxed fit with breathable fabric, ensuring both style and ease.",
+    "price": 44.99,
+    "category": "men",
+     "tags": ["new arrival"],
+    "images": [
+      "https://artisanclick.com/wp-content/uploads/2022/01/Jan-66-scaled.jpg",
+      "https://artisanclick.com/wp-content/uploads/2022/01/Jan-66-scaled.jpg",
+      "https://artisanclick.com/wp-content/uploads/2022/01/Jan-66-scaled.jpg"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Women's Kurti",
+    "description": "Experience all-day comfort with this men's casual shirt made from premium soft cotton. Ideal for everyday wear, it offers a relaxed fit with breathable fabric, ensuring both style and ease.",
+    "price": 32.99,
+    "category": "women",
+     "tags": ["new arrival"],
+    "images": [
+      "https://twelvebd.com/cdn/shop/files/PH-KUR-TW20-04B-0413_4.jpg?v=1747238511&width=360",
+      "https://twelvebd.com/cdn/shop/files/PH-KUR-TW20-04B-0413_4.jpg?v=1747238511&width=360",
+       "https://twelvebd.com/cdn/shop/files/PH-KUR-TW20-04B-0413_4.jpg?v=1747238511&width=360"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Women's Saree",
+    "description": "Beautiful silk sareeExperience all-day comfort with this men's casual shirt made from premium soft cotton. Ideal for everyday wear, it offers a relaxed fit with breathable fabric, ensuring both style and ease.",
+    "price": 99.99,
+    "category": "women",
+     "tags": ["new arrival"],
+    "images": [
+      "https://img.drz.lazcdn.com/g/kf/Sc048828dead24003a1f26f4f0ce389fdD.jpg_400x400q75.avif",
+      "https://img.drz.lazcdn.com/g/kf/Sc048828dead24003a1f26f4f0ce389fdD.jpg_400x400q75.avif",
+      "https://img.drz.lazcdn.com/g/kf/Sc048828dead24003a1f26f4f0ce389fdD.jpg_400x400q75.avif"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Women's Hijab",
+    "description": "Experience all-day comfort with this men's casual shirt made from premium soft cotton. Ideal for everyday wear, it offers a relaxed fit with breathable fabric, ensuring both style and ease.",
+    "price": 22.99,
+    "category": "women",
+     "tags": ["top selling"],
+    "images": [
+      "https://img.drz.lazcdn.com/g/kf/S99c9c74e081b4c2d89fe4cd0f7eb74b2h.jpg_400x400q75.avif",
+      "https://img.drz.lazcdn.com/g/kf/S99c9c74e081b4c2d89fe4cd0f7eb74b2h.jpg_400x400q75.avif",
+      "https://img.drz.lazcdn.com/g/kf/S99c9c74e081b4c2d89fe4cd0f7eb74b2h.jpg_400x400q75.avif"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Women's Salwar Kameez",
+    "description": "Stylish salwar kameez Experience all-day comfort with this men's casual shirt made from premium soft cotton. Ideal for everyday wear, it offers a relaxed fit with breathable fabric, ensuring both style and ease.",
+    "price": 45.99,
+    "category": "women",
+     "tags": ["top selling"],
+    "images": [
+      "https://img.drz.lazcdn.com/static/bd/p/0cbb196ecbb0f533f10cd1745245e3f3.jpg_400x400q75.avif",
+      "https://img.drz.lazcdn.com/static/bd/p/0cbb196ecbb0f533f10cd1745245e3f3.jpg_400x400q75.avif",
+      "https://img.drz.lazcdn.com/static/bd/p/0cbb196ecbb0f533f10cd1745245e3f3.jpg_400x400q75.avif"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Women's Jacket",
+    "description": "Woolen jacket Experience all-day comfort with this men's casual shirt made from premium soft cotton. Ideal for everyday wear, it offers a relaxed fit with breathable fabric, ensuring both style and ease.",
+    "price": 59.99,
+    "category": "women",
+     "tags": ["new arrival"],
+    "images": [
+      "https://img.drz.lazcdn.com/static/bd/p/aa70476c8c8cd439710922bb24f0a580.jpg_400x400q75.avif",
+      "https://img.drz.lazcdn.com/static/bd/p/aa70476c8c8cd439710922bb24f0a580.jpg_400x400q75.avif",
+       "https://img.drz.lazcdn.com/static/bd/p/aa70476c8c8cd439710922bb24f0a580.jpg_400x400q75.avif"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Women's Borga",
+    "description": "Soft cotton T-shirt Experience all-day comfort with this men's casual shirt made from premium soft cotton. Ideal for everyday wear, it offers a relaxed fit with breathable fabric, ensuring both style and ease.",
+    "price": 18.99,
+    "category": "women",
+    "tags": ["new arrival","top selling"],
+    "images": [
+      "https://img.drz.lazcdn.com/static/bd/p/5247b8861660e9134b7d1d95f9b2ebea.jpg_400x400q75.avif",
+      "https://img.drz.lazcdn.com/static/bd/p/5247b8861660e9134b7d1d95f9b2ebea.jpg_400x400q75.avif",
+       "https://img.drz.lazcdn.com/static/bd/p/5247b8861660e9134b7d1d95f9b2ebea.jpg_400x400q75.avif"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Women's Hoodie",
+    "description": "Experience all-day comfort with this men's casual shirt made from premium soft cotton. Ideal for everyday wear, it offers a relaxed fit with breathable fabric, ensuring both style and ease.",
+    "price": 39.99,
+    "category": "women",
+    "tags": ["new arrival","top selling"],
+    "images": [
+      "https://img.drz.lazcdn.com/static/bd/p/f0e0f5f09158ee463f2e876bcaee745a.jpg_400x400q75.avif",
+      "https://img.drz.lazcdn.com/static/bd/p/f0e0f5f09158ee463f2e876bcaee745a.jpg_400x400q75.avif",
+      "https://img.drz.lazcdn.com/static/bd/p/f0e0f5f09158ee463f2e876bcaee745a.jpg_400x400q75.avif"
+    ]
+  }
+]

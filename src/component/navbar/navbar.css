@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+.navs ul li a{
+    @apply text-[1.1rem] 
+}
+
+.navs ul li{
+    
+    @apply max-md:border-b p-2
+}
+
+.activeLink{
+    @apply  text-green-900 border-b-2
+}

@@ -1,0 +1,6 @@
+
+@import "tailwindcss";
+
+.swiper-horizontal > .swiper-pagination-bullets, .swiper-pagination-bullets.swiper-pagination-horizontal{
+    @apply -bottom-[6px]!  left-0
+}

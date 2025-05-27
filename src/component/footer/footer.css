@@ -1,0 +1,23 @@
+@import "tailwindcss";
+@theme{
+  --color-white:rgb(255, 255, 255);
+  --color-white2:rgb(242, 240, 241);
+  --color-gray:rgb(204, 204, 204);
+  --color-black:rgb(0, 0, 0);
+  --color-textGray:rgb(153, 153, 153);
+}
+
+.footer ul{
+    @apply grid gap-3
+}
+.footer h2{
+    @apply font-bold text-[1rem] mb-4
+}
+
+.footer li a{
+    @apply  cursor-pointer
+}
+
+.footer span .i{
+    @apply border text-[2rem] p-2 rounded-full hover:text-gray-700 cursor-pointer
+}

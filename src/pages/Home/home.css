@@ -1,0 +1,59 @@
+.home .SwiperSlide .slide1{
+    background: rgb(0,0,0,0.7)url(../../assets/bg/bg1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode:darken;
+}
+.home .SwiperSlide .slide2{
+    background: rgb(0,0,0,0.7)url(../../assets/bg/bg-2.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode:darken;
+}
+.home .SwiperSlide .slide p{
+    word-spacing: 3px
+}
+
+
+
+@import "tailwindcss";
+
+@theme{
+  --color-white:rgb(255, 255, 255);
+  --color-white2:rgb(242, 240, 241);
+  --color-gray:rgb(204, 204, 204);
+  --color-black:rgb(0, 0, 0);
+  --color-textGray:rgb(153, 153, 153);
+}
+
+.home{
+    @apply flex min-h-[95vh]  w-full  overflow-x-hidden 
+}
+
+.home .SwiperSlide{
+ @apply  flex w-full h-full 
+}
+
+.home .SwiperSlide .slide{
+    @apply w-full h-full text-white2 flex  flex-col justify-center gap-5 text-left p-[10%] 
+}
+
+.home .SwiperSlide .slide h1{
+    @apply md:text-[4rem] text-[2.5rem] font-extrabold
+}
+.home .SwiperSlide .slide p{
+  @apply text-[1.1rem] font-extralight opacity-[0.5] tracking-[1px]
+}
+
+.home .SwiperSlide .slide button{
+    @apply border-2 w-fit bg-white text-2xl text-black outline-none border-transparent rounded-[30px] px-15  py-3 shadow-xs cursor-pointer
+}
+
+.swiper-button-next ,.swiper-button-prev {
+    @apply border-2 border-transparent w-[25px]! h-[25px!] flex! items-center!  px-5 rounded-full bg-white 
+}
+ .swiper-button-next::after, .swiper-button-prev::after{
+    @apply text-[16px]! text-black font-bold  flex w-[20px]
+} 

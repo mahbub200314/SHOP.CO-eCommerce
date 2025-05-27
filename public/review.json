@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "user": "Mahbub",
+    "rating": "⭐️⭐️⭐️⭐️⭐️",
+    "comment": "This product exceeded my expectations! The build quality is superb, and the packaging was neat. Highly recommended!"
+  },
+  {
+    "id": 2,
+    "user": "Niloy",
+    "rating": "⭐️⭐️⭐️⭐️",
+    "comment": "The product itself is great, but it took 5 days to arrive which was a bit disappointing. Otherwise, the experience was smooth."
+  },
+  {
+    "id": 3,
+    "user": "Akib",
+    "rating": "⭐️⭐️⭐️⭐️⭐️",
+    "comment": "Absolutely love it! The color and design matched the images perfectly. Will definitely purchase from here again."
+  },
+  {
+    "id": 4,
+    "user": "CrushCyclone",
+    "rating": "⭐️⭐️⭐️⭐️",
+    "comment": "Very good quality for the price. Customer support was also responsive and helpful throughout the process."
+  },
+  {
+    "id": 5,
+    "user": "Tanisha",
+    "rating": "⭐️⭐️⭐️⭐️⭐️",
+    "comment": "I bought this as a gift and they loved it. Fast delivery and great quality. Totally worth the money!"
+  },
+  {
+    "id": 6,
+    "user": "Rafi",
+    "rating": "⭐️⭐️⭐️⭐️⭐️",
+    "comment": "Excellent service and amazing product! I’ve used it for a week and have no complaints at all."
+  },
+  {
+    "id": 7,
+    "user": "Sadia",
+    "rating": "⭐️⭐️⭐️⭐️",
+    "comment": "Product was exactly as described, but I wish it came with a manual. Still, very happy overall."
+  },
+  {
+    "id": 8,
+    "user": "Tanim",
+    "rating": "⭐️⭐️⭐️⭐️⭐️",
+    "comment": "Smooth shopping experience and premium quality product. Definitely a 5-star experience!"
+  },
+  {
+    "id": 9,
+    "user": "Mehjabin",
+    "rating": "⭐️⭐️⭐️⭐️⭐️",
+    "comment": "This was my second order from this site and just like before, the product was perfect and delivery was quick."
+  },
+  {
+    "id": 10,
+    "user": "Farhan",
+    "rating": "⭐️⭐️⭐️",
+    "comment": "The product is okay, but the packaging was damaged. Not a big issue but worth mentioning."
+  }
+]
