@@ -11,7 +11,7 @@ const Review = () => {
   const [review, setReview] = useState([]);
 
   useEffect(() => {
-    fetch('../../../public/review.json')
+    fetch('/public/review.json')
       .then(res => res.json())
       .then(data => setReview(data));
   }, []);
