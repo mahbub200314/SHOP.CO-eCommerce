@@ -1,7 +1,7 @@
 import { useContext, useEffect, useState } from "react"
 import { AuthContext } from "../../AuthProvider"
 import { collection, doc, getDocs, query, QuerySnapshot, where ,deleteDoc } from "firebase/firestore"
-import { db } from "/public/firebase"
+import { db } from "/firebase"
 
 
 const Cart = () => {

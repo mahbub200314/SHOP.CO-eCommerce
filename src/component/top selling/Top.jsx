@@ -8,7 +8,7 @@ const Top = () => {
 const [top, setTop] = useState([])
 useEffect( ()=>{
 
-   fetch('/public/products.json')
+   fetch('/products.json')
    .then(res => res.json())
   .then(data  =>{
     

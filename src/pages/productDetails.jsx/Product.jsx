@@ -17,7 +17,7 @@ const Product = () => {
    
     useEffect(()=>{
 
-        fetch('/public/products.json')
+        fetch('/products.json')
         .then(res => res.json())
         .then(data => {
             const item = data.find( data=> data.id.toString() === id)
