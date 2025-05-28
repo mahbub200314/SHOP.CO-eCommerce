@@ -50,9 +50,12 @@ const removeFuncton =async (itemId) => {
   }
 }
 
-const totalPrice = cart.reduce((acc, item)=>{
+const totalPrice = parseFloat(
+   cart.reduce((acc, item)=>{
   return acc + item.price * item.quantity
-},0)
+},0).toFixed(3)
+)
+
   
   if (loading) return <p className="text-center py-10">Loading cart...</p>
   if (cart.length === 0) return <p className="text-center py-10 text-red-500">Your cart is empty!</p>
@@ -73,7 +76,7 @@ const totalPrice = cart.reduce((acc, item)=>{
              <h2 className='text-xl font-semibold'>{item.name}</h2>
             <p>Price: ${item.price}</p>
             <p>Quantity: {item.quantity}</p>
-            <button onClick={()=>removeFuncton(item.id)} className="border-1 text-red-700 px-4 rounded-[5px] mt-2">Remove</button>
+            <button onClick={()=>removeFuncton(item.id)} className="border-1 text-red-700 px-4 rounded-[5px] mt-2 hover:border-black hover:text-black cursor-pointer">Remove</button>
             </div>
           </div>
         ))}

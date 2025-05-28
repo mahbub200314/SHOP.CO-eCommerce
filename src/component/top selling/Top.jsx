@@ -44,7 +44,7 @@ const allproductShow = show? top : top.slice(0,4);
               <h2 className="text-price my-1 font-medium">{topselling.price}</h2>
 
                <Link to={`/product/${topselling.id}`}>
-               <button className=' w-fit text-price  self-center font-medium bg-gray px-5 my-2 rounded-[5px] cursor-pointer'>Buy </button>
+               <button className=' w-fit text-price  self-center font-medium bg-gray px-5 my-2 rounded-[5px] hover:text-black cursor-pointer'>Buy </button>
                </Link>
 
            </div>

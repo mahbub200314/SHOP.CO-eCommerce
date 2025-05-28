@@ -23,7 +23,7 @@ const Home = () => {
             delay:3000,
             disableOnInteraction:true  //user interaction এর পরও autoplay চলবে
         }}
-        speed={1300}
+        speed={2500}
 
          className="mySwiper">
         <SwiperSlide className='SwiperSlide'>

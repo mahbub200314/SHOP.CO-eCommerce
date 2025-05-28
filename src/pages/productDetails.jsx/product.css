@@ -1,5 +1,12 @@
 @import "tailwindcss";
-
+@theme{
+  --color-white:rgb(255, 255, 255);
+  --color-white2:rgb(242, 240, 241);
+  --color-gray:rgb(204, 204, 204);
+  --color-black:rgb(0, 0, 0);
+  --color-textGray:rgb(153, 153, 153);
+  --color-price:rgb(242, 78, 30);
+}
 .photos1 img{
     @apply w-[100px] h-[150px] rounded-[15px] m-2  drop-shadow-lg
 }
@@ -9,5 +16,5 @@
 }
 
 .add{
-    @apply flex items-center text-[2rem] cursor-pointer
+    @apply flex items-center text-[2.5rem] hover:text-price cursor-pointer
 }

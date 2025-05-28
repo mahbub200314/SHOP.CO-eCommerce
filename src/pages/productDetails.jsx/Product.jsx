@@ -89,14 +89,14 @@ const Product = () => {
        <p className='text-[1.2rem] text-gray-600 font-sans! mb-5'>{product.description}</p>
 
        <div className="addcart flex gap-4 ">
-        <div className='flex gap-4 items-center bg-gray px-4 rounded-[10px] '>
+        <div className='flex gap-4 items-center bg-gray px-8 rounded-[10px] '>
         <button className='add' onClick={increase}>+</button>
         <p className='flex items-center text-[2rem] '>{quantity}</p>
         <button  className='add' onClick={decrease}>-</button>
         </div>
 
         <div>
-            <button onClick={addCart} className='border-1 bg-black text-white text-[1.5rem] rounded-[35px] px-[2rem] py-[0.4rem] cursor-pointer'>ADD CART</button>
+            <button onClick={addCart} className='border-1 bg-black text-white text-[1.5rem] rounded-[35px] px-[2rem] py-[0.4rem] hover:text-price cursor-pointer'>ADD CART</button>
         </div>
        </div> {/* addcart end here....*/}
 

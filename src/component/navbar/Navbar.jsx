@@ -88,9 +88,9 @@ const Navbar = () => {
         </div>{/*search*/}
 
         <div className='flex gap-5 items-center'>
-            <NavLink to='cart'  className={({isActive}) => isActive? 'activeLink' : ""}><IoCartOutline className='text-2xl font-light'/></NavLink>
+            <NavLink to='cart'  className={({isActive}) => isActive? 'activeLink' : ""}><IoCartOutline className='text-2xl font-light hover:text-price hover:border-b-2'/></NavLink>
 
-            {/* <FaRegUserCircle onClick={forLogin} className=' text-2xl font-light cursor-pointer'/> */}
+            
             <div onClick={forLogin}>
                 {user ?(
                     <img className='w-[40px] h-[40px] rounded-full border-black border-2 p-[2px] cursor-pointer'
