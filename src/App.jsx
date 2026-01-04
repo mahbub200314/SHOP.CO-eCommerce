@@ -25,7 +25,6 @@ function App() {
 
 
 
-
          <Route  element={<NestedLayout></NestedLayout>}>
 
             <Route path='shop' element={<Shop/>}></Route>

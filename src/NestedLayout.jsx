@@ -15,7 +15,6 @@ const NestedLayout = () => {
         <Outlet/>
      </main>
 
-
       <footer>
         <Footer></Footer>
       </footer>

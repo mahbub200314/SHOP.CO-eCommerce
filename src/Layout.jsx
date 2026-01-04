@@ -6,12 +6,13 @@ import Top from    './component/top selling/Top'
 import NewArrival from './component/new arrival/NewArrival'
 import Review from './pages/Review/Review'
 import Footer from './component/footer/Footer'
+import ScrollManager from './ScrollManager'
 const Layout = () => {
   return (
     <div className='layout relative pt-[70px]'>
+      <ScrollManager/>
 
          
-
       <div className="navbar fixed top-0 left-0 w-full z-10 ">
         <Navbar/>
       </div>
@@ -40,6 +41,7 @@ const Layout = () => {
         <div className="newarrval">
           <NewArrival/>
         </div>
+        
 
 {/* .................................................. */}
 

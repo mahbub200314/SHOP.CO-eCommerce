@@ -70,10 +70,10 @@ const Navbar = () => {
 
      <div className="navs ">
         <ul className={`z-10 md:flex gap-5 ${navbars? "max-md:bg-gray max-md:absolute max-md:top-[100%] max-md:left-0 max-md:right-0  max-md:text-[2rem] max-md:font-medium":"max-md:hidden"}`}>
-            <li><NavLink to='shop'  className={({isActive}) => isActive? 'activeLink' : ""} >Shop</NavLink></li>
-            <li><NavLink to='onSale'  className={({isActive}) => isActive? 'activeLink' : ""} >On Sale</NavLink></li>
-            <li><NavLink to='newArrivals' className={({isActive}) => isActive? 'activeLink' : ""} >New Arrivals</NavLink></li>
-            <li><NavLink to='brands'  className={({isActive}) => isActive? 'activeLink' : ""} >Brands</NavLink></li>
+            <li><NavLink to='/shop'  className={({isActive}) => isActive? 'activeLink' : ""} >Shop</NavLink></li>
+            <li><NavLink to='/onSale'  className={({isActive}) => isActive? 'activeLink' : ""} >On Sale</NavLink></li>
+            <li><NavLink to='/newArrivals' className={({isActive}) => isActive? 'activeLink' : ""} >New Arrivals</NavLink></li>
+            <li><NavLink to='/brands'  className={({isActive}) => isActive? 'activeLink' : ""} >Brands</NavLink></li>
         </ul>
      </div>
      
